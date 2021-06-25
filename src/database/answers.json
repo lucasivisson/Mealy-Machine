@@ -1,0 +1,424 @@
+{
+  "answers" : [
+    {
+      "type": "o que",
+      "subject": "O Iluminismo",
+      "predicate": "foi",
+      "object": "um movimento intelectual e filosófico que dominou o mundo das ideias na Europa durante o século XVIII"
+    },
+    {
+      "type": "o que",
+      "subject": "Comorbidade",
+      "predicate": "significa",
+      "object": "doenças associadas a uma piora da saúde que acompanham o indivíduo quando uma outra se instala"
+    },
+    {
+      "type": "o que",
+      "subject": "O ator e humorista Paulo Gustavo",
+      "predicate": "morreu",
+      "object": "aos 42 anos vítima de covid 19"
+    },
+    {
+      "type": "o que",
+      "subject": "O Tratado de Tordesilhas",
+      "predicate": "foi",
+      "object": "um tratado celebrado entre o Reino de Portugal e a Coroa de Castela para dividir as terras descobertas e por descobrir por ambas as Coroas fora da Europa"
+    },
+    {
+      "type": "o que",
+      "subject": "A revolta da vacina",
+      "predicate": "foi",
+      "object": "uma revolta de caráter popular que aconteceu no Rio de Janeiro, em 1904. Sua motivação foi a insatisfação da população com a campanha de vacinação obrigatória contra a varíola implantada na cidade por meio de Oswaldo Cruz"
+    },
+    {
+      "type": "que",
+      "subject": "O ator Paul Walker",
+      "predicate": "morreu",
+      "object": "em 30 de novembro de 2013"
+    },
+    {
+      "type": "que",
+      "subject": "O anime Dragon Ball Z",
+      "predicate": "possui",
+      "object": "o personagem Son Goku"
+    },
+    {
+      "type": "que",
+      "subject": "O dia dos namorados",
+      "predicate": "é comemorado",
+      "object": "em 12 de junho"
+    },
+    {
+      "type": "que",
+      "subject": "O dia das mães",
+      "predicate": "é comemorado",
+      "object": "em 8 de maio"
+    },
+    {
+      "type": "que",
+      "subject": "O dia dos pais",
+      "predicate": "é comemorado",
+      "object": "em 8 de agosto"
+    },
+    {
+      "type": "quem",
+      "subject": "O professor Thelmo",
+      "predicate": "ministra",
+      "object": "a disciplina Algebra Linear"
+    },
+    {
+      "type": "quem",
+      "subject": "O Lewandowski",
+      "predicate": "é o melhor",
+      "object": "jogador do mundo"
+    },
+    {
+      "type": "quem",
+      "subject": "O Rafael",
+      "predicate": "foi o último",
+      "object": "coordenador do curso de computação"
+    },
+    {
+      "type": "quem",
+      "subject": "Santos Dumont e os irmãos Wright",
+      "predicate": "inventaram",
+      "object": "o avião"
+    },
+    {
+      "type": "quem",
+      "subject": "Juan Pablo Vojvoda",
+      "predicate": "é o técnico",
+      "object": "do Fortaleza"
+    },
+    {
+      "type": "quem",
+      "subject": "Jair Messias Bolsonaro",
+      "predicate": "é o presidente",
+      "object": "do Brasil"
+    },
+    {
+      "type": "quem",
+      "subject": "O Flamengo",
+      "predicate": "venceu",
+      "object": "O último brasileirão"
+    },
+    {
+      "type": "quem",
+      "subject": "Brendan Eich",
+      "predicate": "criou",
+      "object": "a linguagem JavaScript"
+    },
+    {
+      "type": "quem",
+      "subject": "Thomas Edison",
+      "predicate": "criou",
+      "object": "a lampada"
+    },
+    {
+      "type": "quem",
+      "subject": "Camilo Santana",
+      "predicate": "governa",
+      "object": "o ceará"
+    },
+    {
+      "type": "qual",
+      "subject": "Fortaleza",
+      "predicate": "é a capital",
+      "object": "do ceará"
+    },
+    {
+      "type": "qual",
+      "subject": "UECE",
+      "predicate": "é a sigla",
+      "object": "da universidade estadual do ceará"
+    },
+    {
+      "type": "qual",
+      "subject": "O terceiro ano",
+      "predicate": "é o último ano",
+      "object": "do ensino médio"
+    },
+    {
+      "type": "qual",
+      "subject": "O Tite",
+      "predicate": "é o técnico",
+      "object": "da seleção brasileira"
+    },
+    {
+      "type": "qual",
+      "subject": "O valor",
+      "predicate": "do salário mínimo",
+      "object": "em 2021 é de 1100 reais"
+    },
+    {
+      "type": "qual",
+      "subject": "A temperatura",
+      "predicate": "de 37 graus Celsius",
+      "object": "é a normal do corpo"
+    },
+    {
+      "type": "qual",
+      "subject": "Pfizer",
+      "predicate": "é a vacina mais eficaz",
+      "object": "contra o covid 19"
+    },
+    {
+      "type": "qual",
+      "subject": "O afeganistão",
+      "predicate": "é o país mais perigoso",
+      "object": "do mundo"
+    },
+    {
+      "type": "qual",
+      "subject": "dinar de Kuwait",
+      "predicate": "é a moeda mais cara",
+      "object": "do mundo"
+    },
+    {
+      "type": "qual",
+      "subject": "Salvador",
+      "predicate": "foi a primeira capital",
+      "object": "do Brasil"
+    },
+    {
+      "type": "quando",
+      "subject": "O brasil",
+      "predicate": "foi descoberto",
+      "object": "em 22 de abril de 1500"
+    },
+    {
+      "type": "quando",
+      "subject": "O brasil",
+      "predicate": "ganhou",
+      "object": "em 2002 sua última copa do mundo "
+    },
+    {
+      "type": "quando",
+      "subject": "A primeira guerra mundial",
+      "predicate": "começou",
+      "object": "em 28 de julho de 1914"
+    },
+    {
+      "type": "quando",
+      "subject": "O facebook",
+      "predicate": "foi criado",
+      "object": "em fevereiro de 2004"
+    },
+    {
+      "type": "quando",
+      "subject": "A última eleição para presidente do brasil",
+      "predicate": "ocorreu",
+      "object": "em 2018"
+    },
+    {
+      "type": "quando",
+      "subject": "O covid 19",
+      "predicate": "surgiu",
+      "object": "em 2019"
+    },
+    {
+      "type": "quando",
+      "subject": "O primeiro computador",
+      "predicate": "surgiu",
+      "object": "em 1946"
+    },
+    {
+      "type": "quando",
+      "subject": "O Alan Turing",
+      "predicate": "morreu",
+      "object": "em 7 de junho de 1954"
+    },
+    {
+      "type": "quando",
+      "subject": "A guerra fria",
+      "predicate": "ocorreu",
+      "object": "entre 1947 a 1991"
+    },
+    {
+      "type": "quando",
+      "subject": "O avião",
+      "predicate": "foi criado",
+      "object": "em 1903"
+    },
+    {
+      "type": "onde",
+      "subject": "O futebol",
+      "predicate": "surgiu",
+      "object": "na Inglaterra"
+    },
+    {
+      "type": "onde",
+      "subject": "Napoleão Bonaparte",
+      "predicate": "morreu",
+      "object": "em Longwood, Santa Helena"
+    },
+    {
+      "type": "onde",
+      "subject": "O teatro",
+      "predicate": "surgiu",
+      "object": "na Grécia Antiga"
+    },
+    {
+      "type": "onde",
+      "subject": "Jesus",
+      "predicate": "nasceu",
+      "object": "em Belém"
+    },
+    {
+      "type": "onde",
+      "subject": "A covid 19",
+      "predicate": "surgiu",
+      "object": "na cidade de Wuhan na China"
+    },
+    {
+      "type": "onde",
+      "subject": "A UECE",
+      "predicate": "se localiza",
+      "object": "no bairro Itaperi"
+    },
+    {
+      "type": "onde",
+      "subject": "A Estátuada Liberdade",
+      "predicate": "foi construida",
+      "object": "em Paris"
+    },
+    {
+      "type": "onde",
+      "subject": "O Coliseu",
+      "predicate": "foi construido",
+      "object": "na Roma"
+    },
+    {
+      "type": "onde",
+      "subject": "O programa No Limite",
+      "predicate": "foi gravado",
+      "object": "no Ceará"
+    },
+    {
+      "type": "onde",
+      "subject": "Os jogos olímpicos",
+      "predicate": "surgiu",
+      "object": "na Grécia Antiga"
+    },
+    {
+      "type": "por que",
+      "subject": "O céu é azul",
+      "predicate": "pois a luz azul",
+      "object": "tem a maior probabilidade de se dispersar pela atmosfera"
+    },
+    {
+      "type": "por que",
+      "subject": "O Fortaleza",
+      "predicate": "continuou na série A",
+      "object": "pois não ficou na zona de rebaixamento do campeonato brasileiro de 2020"
+    },
+    {
+      "type": "por que",
+      "subject": "Muitos brasileiros",
+      "predicate": "imigram para outros países",
+      "object": "pois buscam mais oportunidades no exterior"
+    },
+    {
+      "type": "por que",
+      "subject": "Muitos brasileiros",
+      "predicate": "imigram para outros países",
+      "object": "pois buscam mais oportunidades no exterior"
+    },
+    {
+      "type": "por que",
+      "subject": "O Brasil",
+      "predicate": "se identifica com a tradição cultural europeia",
+      "object": "e por isso é considerado um país ocidental"
+    },
+    {
+      "type": "por que",
+      "subject": "A Terra",
+      "predicate": "é atingida pela aceleração da gravidade",
+      "object": "e por isso é redonda"
+    },
+    {
+      "type": "por que",
+      "subject": "Os brasileiros",
+      "predicate": "foram colonizados pelos portuguêses",
+      "object": "e por isso falam português"
+    },
+    {
+      "type": "por que",
+      "subject": "Os brasileiros",
+      "predicate": "foram colonizados pelos portuguêses",
+      "object": "e por isso falam português"
+    },
+    {
+      "type": "por que",
+      "subject": "No inverno",
+      "predicate": "anoitece",
+      "object": "mais cedo porque a posição do sol está exatamente na linha do Equador. Porém, o sol, vai continuar se distanciando aparentemente para norte. A partir daí, os raios solares atingem o mínimo de inclinação no início do Inverno, e, ao contrário do Verão, os dias serão mais curtos e as noites mais longas."
+    },
+    {
+      "type": "por que",
+      "subject": "O dinheiro",
+      "predicate": "foi inventado",
+      "object": "para facilitar as trocas comerciais"
+    },
+    {
+      "type": "como",
+      "subject": "O eclipse solar",
+      "predicate": "acontece",
+      "object": "quando a Lua se move entre o Sol e a Terra, lançando uma sombra na Terra e bloqueando a luz solar em algumas áreas."
+    },
+    {
+      "type": "como",
+      "subject": "O universo",
+      "predicate": "surgiu",
+      "object": "de um único ponto ou singularidade onde toda a matéria e energia do universo observável encontrava-se concentrada numa fase densa e extremamente quente chamada Era de Planck"
+    },
+    {
+      "type": "como",
+      "subject": "James Hetfield",
+      "predicate": "é o nome",
+      "object": "do vocalista da banda metallica"
+    },
+    {
+      "type": "como",
+      "subject": "Pai em inglês",
+      "predicate": "se diz",
+      "object": "father"
+    },
+    {
+      "type": "como",
+      "subject": "O raio",
+      "predicate": "acontece",
+      "object": "quando certa região de uma nuvem acumula excesso de carga elética, positiva ou negativa"
+    },
+    {
+      "type": "como",
+      "subject": "Um terremoto",
+      "predicate": "é provocado",
+      "object": "por movimentos na crosta terrestre, composta por enormes placas de rocha, chamadas de placas tectônicas"
+    },
+    {
+      "type": "como",
+      "subject": "A chuva",
+      "predicate": "acontece",
+      "object": "quando a luz solar aquece a água na superfície do planeta. O calor faz a água evaporar, ou seja, virar vapor, que se eleva no ar. À medida que esfria, o vapor de água volta ao estado líquido em forma de gotículas."
+    },
+    {
+      "type": "como",
+      "subject": "Boa tarde em espanhol",
+      "predicate": "se diz",
+      "object": "buenas tardes"
+    },
+    {
+      "type": "como",
+      "subject": "O Cristianismo",
+      "predicate": "surgiu",
+      "object": "com a vinda de Jesus Cristo. Para a história da religião, Deus mandou que seu único filho descesse à terra para ser o messias (salvador) dos homens. Cristo seria o encarregado de difundir o amor e a palavra de Deus."
+    },
+    {
+      "type": "como",
+      "subject": "O efeito estufa",
+      "predicate": "acontece",
+      "object": "quando a clorofila absorve energia da luz solar. As plantas usam a energia da luz para transformar água e dióxido de carbono em oxigênio e nutrientes, chamados açúcares. As plantas utilizam parte dos açúcares e armazenam o restante. O oxigênio é liberado no ar"
+    }
+  ]
+}
