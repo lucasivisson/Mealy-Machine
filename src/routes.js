@@ -1,5 +1,5 @@
 const { Router } = require('express');
-const MachineMealyController = require('./controllers/MachineMealyController');
+const MachineMealyController = require('./controllers/MealyMachineController');
 
 const router = Router();
 
