@@ -3,6 +3,6 @@ const MachineMealyController = require('./controllers/MachineMealyController');
 
 const router = Router();
 
-router.post('/', MachineMealyController.store);
+router.post('/mealy-machine', MachineMealyController.store);
 
 module.exports = router;

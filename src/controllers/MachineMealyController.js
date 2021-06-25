@@ -39,8 +39,6 @@ module.exports = {
       }
     });
 
-    console.log(comparation);
-
     if(comparation.length > 1 || comparation.length === 0) {
       let comparationPredicate = database.filter((phrase) => {
         let questionPredicateKeyword = keyword(predicate);
